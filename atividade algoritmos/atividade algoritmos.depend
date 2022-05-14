@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649713221 source:c:\users\cliente xpert\onedrive\Área de trabalho\algoritmos\atividade algoritmos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
